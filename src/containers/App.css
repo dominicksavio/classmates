@@ -1,0 +1,11 @@
+@font-face {
+font-family: 'Gaegu', cursive;
+font-style: normal;
+font-weight: normal;
+}
+
+h1,footer {
+  font-family: 'Gaegu', cursive;
+  font-weight: 200;
+  color: #0ccac4;
+}
